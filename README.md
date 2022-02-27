@@ -24,7 +24,11 @@ Original Code(Left) vs Retracted Code (Right)
 
 ## Summary
 
-Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Let's think about this in another way, suppose you are a writer writing a book, you are not going to publish your first draft, you need to revise it several times, maybe edit a few parts, trim some chapters, may add a few things here or there and after several revision and rewrites you'll publish a final and more polished products. The same applies to coding, usually your first attempt will not always be the best, and maybe if you revisit your code you can improve it by editing certaing things to make it more efficiently.
+Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Let's think about this in another way, suppose you are a writer writing a book, you are not going to publish your first draft, you need to revise it several times, maybe edit a few parts, trim some chapters, may add a few things here or there and after several revision and rewrites you'll publish a final and more polished products. The same applies to coding, usually your first attempt will not always be the best, and maybe if you revisit your code you can improve it by editing certaing things to make it more efficiently. 
+We can see that refactoring has many advantages, However, one of the drawbacks it is that is time consumming and detailed oriented, but if you do it right you will save a lot of time in the future. so in the end, It's worth to spend more time if our code it's more cleaner and effcient.
+In our particular case refactoring not only improved the speed of our code, but we also set up a framework in case we want to add more data to our Worksheets. For example, If we suddenly have more stocks to analyze, we will only have to change the lenght of our array and only set the  value of our new variables one time for each and our code would still work with the new information
+
+
 
 
     

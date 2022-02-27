@@ -12,6 +12,7 @@ After reviewing the data for the stocks in  2017 and 2018 in Steve's workbook we
 
 When we refactored the code, we created output arrays for each ticker's volume, starting price, and ending price. We then use the ticketIndex variable we created to obtain our results. (See code below)
 
+![image] (https://github.com/gotica462/VBA_Challenge/blob/main/VBA_Challenge_Creating_Array_Outputs.png)
 
 
 We use the arrays so We don’t have to declare one type of variable multiple times if each variable store’s different values. 

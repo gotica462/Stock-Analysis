@@ -15,10 +15,12 @@ When we refactored the code, we created output arrays for each ticker's volume, 
 https://github.com/gotica462/VBA_Challenge/blob/main/VBA_Challenge_Creating_Array_Outputs.png
 
 
-We use the arrays so We don’t have to declare one type of variable multiple times, this helps us with organization, speed and also if our data grows we would be able to edit our code more faster and easier. As we can see, our refracted code runs almost 10x faster than our original module code. (See images below to see the comparison)
+We use the arrays so We don’t have to declare one type of variable multiple times, this helps us with organization, speed and also if our data grows we would be able to edit our code more faster and easier. As we can see, our refracted code runs almost 10x faster than our original module code. (See images below)
 
 Original Code(Left) vs Retracted Code (Right)    
+![image](https://github.com/gotica462/VBA_Challenge/blob/main/2017_runningtime_without_refraction.png) ![image](https://github.com/gotica462/VBA_Challenge/blob/main/VBA_Challenge_2017.png)
 
+![image](https://github.com/gotica462/VBA_Challenge/blob/main/2018_runningtime_without_refraction.png) ![image](https://github.com/gotica462/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
 
     
 

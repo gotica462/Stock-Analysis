@@ -10,15 +10,11 @@ After reviewing the data for the stocks in  2017 and 2018 in Steve's workbook we
 
 ![image](https://user-images.githubusercontent.com/99451833/155895442-3a7ae766-f774-438b-aee5-11b65caa8f3f.png) ![image](https://user-images.githubusercontent.com/99451833/155895897-d6e96e70-2e25-477f-8e33-f8cad862b44c.png)
 
-When we refactored the code, we created output arrays for each ticker's volume, starting price, and ending price. 
+When we refactored the code, we created output arrays for each ticker's volume, starting price, and ending price. We then use the ticketIndex variable we created to obtain our results. (See code below)
 
 
 
-We use the arrays so We don’t have to declare one type of variable multiple times if each variable store’s different values. We then use the ticketIndex variable we created to obtain our results. (See code below)
-
-
-           
-
+We use the arrays so We don’t have to declare one type of variable multiple times if each variable store’s different values. 
 
 
 

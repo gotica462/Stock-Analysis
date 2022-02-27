@@ -22,6 +22,11 @@ Original Code(Left) vs Retracted Code (Right)
 
 ![image](https://github.com/gotica462/VBA_Challenge/blob/main/2018_runningtime_without_refraction.png) ![image](https://github.com/gotica462/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
 
+## Summary
+
+Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Let's think about this in another way, suppose you are a writer writing a book, you are not going to publish your first draft, you need to revise it several times, maybe edit a few parts, trim some chapters, may add a few things here or there and after several revision and rewrites you'll publish a final and more polished products. The same applies to coding, usually your first attempt will not always be the best, and maybe if you revisit your code you can improve it by editing certaing things to make it more efficiently.
+
+
     
 
 
